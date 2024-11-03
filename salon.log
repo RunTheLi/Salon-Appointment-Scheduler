@@ -1,3 +1,9 @@
+-- Create database
+   CREATE DATABASE salon;
+
+-- Connect to database
+   \c salon
+
 -- Create the customers table
 CREATE TABLE customers (
     customer_id SERIAL PRIMARY KEY,
