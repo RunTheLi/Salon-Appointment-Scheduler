@@ -26,3 +26,4 @@ INSERT INTO services(service_id, name) VALUES
     (1, 'waxing'),
     (2, 'eyelash'),
     (3, 'makeup');
+    
